@@ -2,7 +2,7 @@
 """
 Connecting to KiteConnect API
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
+@author: Sumit Joshi
 """
 
 from kiteconnect import KiteConnect
