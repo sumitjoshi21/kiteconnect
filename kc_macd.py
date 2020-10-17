@@ -2,7 +2,7 @@
 """
 Zerodha Kite Connect - MACD implementation
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
+
 """
 from kiteconnect import KiteConnect
 import pandas as pd
