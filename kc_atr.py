@@ -9,7 +9,7 @@ import pandas as pd
 import datetime as dt
 import os
 
-cwd = os.chdir("D:\\Udemy\\Zerodha KiteConnect API\\1_account_authorization")
+cwd = os.chdir("")
 
 #generate trading session
 access_token = open("access_token.txt",'r').read()
